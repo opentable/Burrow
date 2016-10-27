@@ -9,7 +9,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/linkedin/Burrow/protocol"
+	"github.com/opentable/Burrow/protocol"
 	"github.com/stretchr/testify/assert"
 )
 
